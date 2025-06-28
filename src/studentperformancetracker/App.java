@@ -1,9 +1,15 @@
 package studentperformancetracker;
 
-public class App {
+import studentperformancetracker.db.DBConnection;
+import java.sql.Connection;
 
+public class App {
     public static void main(String[] args) {
-        // TODO code application logic here
+        Connection conn = DBConnection.getConnection();
+        if (conn != null) {
+            // Connection succeeded!
+            System.out.println("Connection succeeded!");
+        }
+        DBConnection.closeConnection();
     }
-    
 }
