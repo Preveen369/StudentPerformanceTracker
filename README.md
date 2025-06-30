@@ -120,13 +120,41 @@ Student ID,Subject Code,Marks Obtained
 
 ---
 
-## 📜 9. Credits
+## 📜 10. 🤝 Contributing
 
-- **Author:** PREVEEN  
-- **Language:** Java  
-- **Database:** MySQL  
-- **License:** Open source for academic and personal use  
-- **GitHub:** [`your-username/repository-name`](https://github.com/your-username/repository-name)
+Pull requests are welcome! Feel free to fork the repository and submit improvements.
+
+**Contributions are welcome! Follow these steps:**
+1. Fork the project.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature description"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
 
 ---
+
+## 📧 Contact
+
+For queries or suggestions:
+
+- 📧 **Email:** [spreveen123@gmail.com](mailto:spreveen123@gmail.com)  
+- ? **LinkedIn:** [www.linkedin.com/in/preveen-s-17250529b/](https://www.linkedin.com/in/preveen-s-17250529b/)
+
+---
+
+## 🌟 Show your support
+
+If you find this project helpful or interesting, please consider giving it a ⭐ on GitHub to show your support!
+
+---
+
 
