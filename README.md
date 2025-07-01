@@ -1,4 +1,4 @@
-# 📘 Student Performance Tracker
+# 📘 Student Performance Tracker (Console-Based Java & MySQL Application)
 
 ## 📄 1. Project Overview
 
