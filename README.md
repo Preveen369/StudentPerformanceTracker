@@ -120,7 +120,7 @@ Student ID,Subject Code,Marks Obtained
 
 ---
 
-## 🤝 10.  Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! Feel free to fork the repository and submit improvements.
 
